@@ -1,0 +1,14 @@
+{
+  "name": "dans-token",
+  "version": "1.0.0",
+  "description": "DAN-Service coin initial token sale contracts",
+  "main": "index.js",
+  "repository": "https://github.com/DAN-Service/dans-token",
+  "author": "DAN-Service maindev, others",
+  "license": "MIT",
+  "scripts": { "test": "truffle test" },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "truffle": "^3.2.5"
+  }
+}
